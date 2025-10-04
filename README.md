@@ -7,6 +7,7 @@
   - 🔗 [Live Demo](https://csvizapp.streamlit.app/)
 
 <h2>📊 Dashboards:</h2>
+
 - <b>Tableau: Washington State EV Data Analysis</b>
   - 🔗 [View Dashboard](https://public.tableau.com/app/profile/abderahim.redouane/viz/WashingtonStateEVDataAnalysis/Dashboard12)
 
