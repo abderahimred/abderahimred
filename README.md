@@ -9,7 +9,7 @@
   - 🔗 [Live Demo](https://csvizapp.streamlit.app/)
 - <b>text_to_viz: a Streamlit app that transforms natural language descriptions into interactive data visualizations.</b>
   - 🔗 [View Project](https://github.com/abderahimred/text_to_viz)
-  - 🔗 [Live Demo]((https://texttoviz.streamlit.app/))  
+  - 🔗 [Live Demo](https://texttoviz.streamlit.app/)  
   
 - <b>Tableau Dashboard: Washington State EV Data Analysis</b>
   - 🔗 [View Dashboard](https://public.tableau.com/app/profile/abderahim.redouane/viz/WashingtonStateEVDataAnalysis/Dashboard12)
