@@ -8,7 +8,9 @@
   - 🔗 [View Project](https://github.com/abderahimred/csviz1)
   - 🔗 [Live Demo](https://csvizapp.streamlit.app/)  
   
-- <b>Tableau: Washington State EV Data Analysis</b>
+- <b>Tableau Dashboard: Washington State EV Data Analysis</b>
+  - 🔗 [View Dashboard](https://public.tableau.com/app/profile/abderahim.redouane/viz/WashingtonStateEVDataAnalysis/Dashboard12)
+- <b>Power BI Dashboard: ...........</b>
   - 🔗 [View Dashboard](https://public.tableau.com/app/profile/abderahim.redouane/viz/WashingtonStateEVDataAnalysis/Dashboard12)
 
 <h2>💻 Tech Stack:</h2>
