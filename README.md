@@ -3,9 +3,11 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 <h2>📊 Data Visualisation Projects:</h2>
+
 - <b>CSViz: A Streamlit app that transforms CSV files into interactive, shareable dashboards in seconds.</b>
   - 🔗 [View Project](https://github.com/abderahimred/csviz1)
   - 🔗 [Live Demo](https://csvizapp.streamlit.app/)  
+  
 - <b>Tableau: Washington State EV Data Analysis</b>
   - 🔗 [View Dashboard](https://public.tableau.com/app/profile/abderahim.redouane/viz/WashingtonStateEVDataAnalysis/Dashboard12)
 
