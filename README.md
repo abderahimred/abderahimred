@@ -23,7 +23,7 @@
 |--------------------|-------|
 | **Programming & Scripting** | ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit) ![Tkinter](https://img.shields.io/badge/-Tkinter-000) |
 | **Data Analysis & Visualization** | ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000) ![Seaborn](https://img.shields.io/badge/-Seaborn-000) ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi) ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoftexcel) |
-| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow) |![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface) ![LoRA](https://img.shields.io/badge/-LoRA-000) |
+| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface) ![LoRA](https://img.shields.io/badge/-LoRA-000) |
 | **Databases** | ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite) |
 | **Tools & Environment** | ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter) |
 
