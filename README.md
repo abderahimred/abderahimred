@@ -1,6 +1,7 @@
 <h1>Hi, I'm Rahim! <br/><a href="https://www.linkedin.com/in/abderahim-redouane-a6a9bb202/">Data Scientist</a>, <a href="https://www.linkedin.com/in/abderahim-redouane-a6a9bb202/">Industrial Engineer</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
+
 - <b>Airline Maintenance Technician Assistant: Fine-tuning an open-source MPT-7B-Instruct LLM to assist airline technicians by predicting recommended maintenance actions from problem descriptions.</b>
   - 🔗 [View Project](https://github.com/abderahimred/Airline-Technician-Assistant-LLM)
 
