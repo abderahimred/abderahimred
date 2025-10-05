@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Airline Maintenance Technician Assistant: Fine-tuning an open-source MPT-7B-Instruct LLM to assist airline technicians by predicting recommended maintenance actions from problem descriptions.</b>
+- <b>Airline Maintenance Technician Assistant: Fine-tuned MPT-7B-Instruct to suggest maintenance actions from problem descriptions using LoRA, instruction-tuning, and Gradio UI for interactive industrial AI applications.</b>
   - 🔗 [View Project](https://github.com/abderahimred/Airline-Technician-Assistant-LLM)
 
 <h2>📊 Data Visualisation Projects:</h2>
