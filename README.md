@@ -44,6 +44,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/abderahim-redouane-a6a9bb202/
+[linkedin]: https://www.linkedin.com/in/abderahimred/
 
 
